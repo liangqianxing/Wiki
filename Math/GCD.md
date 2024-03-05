@@ -1,7 +1,5 @@
 [toc]
 
-https://github.com/liangqianxing/Wiki.git
-
 # GCD
 
 ## **辗转相除法**
