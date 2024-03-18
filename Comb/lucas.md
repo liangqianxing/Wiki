@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/687702616
 $$
 \begin{align}
 (a+b)^n=\sum\limits^n_{r=0}C^r_na^rb^{n-r}=\sum\limits^n_{r=0}C^r_nb^ra^{n-r}
